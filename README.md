@@ -1,9 +1,11 @@
-
 <!-- PROJECT TITLE -->
 <br />
 <p align="center">
  
-  <h3 align="center">Morimens Volunteer Translation Project</h3>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+  <h3 align="center" style="white-space: nowrap; margin: 0;">Morimens Volunteer Translation Project</h3>
+   <img src="https://i.lefuha.top/v2/upload/2025-09-18/aec07af9-f2fe-4590-97ec-2c1703063f9f.png" height="100" style="margin-right: 20px; flex-shrink: 0;"><img src="https://i.lefuha.top/v2/upload/2025-09-18/34d9f0ca-3098-48f7-8f4b-b45cea1293c0.png" height="100" style="margin-left: 20px; flex-shrink: 0;">
+</div>
 
   <p align="center">
     A community project to improve the translation quality of Morimens, a Lovecraftian Deck-building Game
@@ -16,7 +18,6 @@
     <a href="https://x.com/MorimensOfcl">Morimens Official Twitter</a>
     ·
     <a href="https://discord.gg/m4JU2d6ce3">Morimens Volunteer Translation Server</a>
-    
   </p>
 </p>
 
@@ -56,7 +57,9 @@ Before making a Pull Request, please make sure your GitHub name is the same as t
 
 2. Contribute in small chunks rather than in one big update, this way it's easier to collaborate and merge the efforts from different people.
 
-3. It is recommended to check out the [existing Term Base and Style Guide](https://drive.google.com/drive/u/1/folders/1NVBQGdhmr6w6tx9RzpX-BDKxdQD-MX9m) first.
+3. When you submit files, please make sure to format them as csv files in UTF-8 coding.
+
+4. It is recommended to check out the [existing Term Base and Style Guide](https://drive.google.com/drive/u/1/folders/1NVBQGdhmr6w6tx9RzpX-BDKxdQD-MX9m) first.
    
 ### The Source Files
 
@@ -127,23 +130,35 @@ If you are not part of the volunteer project yet, or just want to ask about Mori
 This Credits list will also show up in-game. You can find it in the Community - Special Thanks tab!
 We will periodically update the Credits list to reflect latest volunteer contributions.
 Before each version update, @艾絲Ace will double check with all volunteers & moderators in the Volunteers Discord to make sure no one is left out.
+(names arranged in alphabetical order)
+## English (EN): 
+Arkaether, Dredge, ghostboots, Goz, lyaistra, omnichromia, SophieChoice
 
-### English
-拉娅妮丝
-Goz
-Arkaether
-Sophie
+## French (FR): 
+Basile, Goz, Jun, Loki Locstar, nauravale, Noah
 
-### German
-### French
-### Portuguese
-Marcos
-### Japanese
-### Russian
-### Korean
-### Indonesian
-Adelle
-### Vietnamese
-### Thai
+## German (DE): 
+Larvani, Strandiel
+
+## Indonesian (ID): 
+Adelle, Rosemary, Yunita
+
+## Japanese (JP): 
+Alza
+
+## Korean (KR): 
+LavenderJuly, Nero
+
+## Portuguese (PT): 
+MarcosWG
+
+## Russian (RU): 
+Bervernis, Elandriah, Kainoxis, Solgazm, SuverNai, TheRiddleOfCards
+
+## Spanish (ES): 
+Miguel Ángel
+
+## Thai (TH): 
+darkerkuro
 
 
